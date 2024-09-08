@@ -11,7 +11,8 @@ public class Main {
 
         double firstNumber = Integer.parseInt(scanner.next());
         System.out.println("first number: " + firstNumber);
-
+         double secondNumber = Integer.parseInt(scanner.next());
+         System.out.println("second number: " + secondNumber);
     }
 
 }
